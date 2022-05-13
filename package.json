@@ -16,7 +16,7 @@
   "homepage": "https://github.com/Mayandev/ikea-low-price#readme",
   "scripts": {
     "dev": "next",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "sync": "node ./scripts/updateList.js",
     "type-check": "tsc",
